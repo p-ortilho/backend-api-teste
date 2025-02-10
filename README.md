@@ -24,8 +24,13 @@ Para rodar o projeto é necessário ter o python instalado.
 
 1. Clone o repositório
 ~~~
+git clone git@github.com:p-ortilho/backend-api-teste.git
 ~~~
 2. Instale as bibliotecas
 ~~~
+pip install -r requirements.txt
 ~~~
-3. Rode a api
+3. Dentro do diretório do projeto execute o seguinte comando
+~~~
+python .\main.py
+~~~
