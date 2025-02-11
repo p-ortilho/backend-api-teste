@@ -4,6 +4,8 @@
 
 Esta API permite o gerenciamento completo de agendamentos de serviços, incluindo cadastro de usuários, autenticação, agendamento e consulta de serviços. O sistema utiliza autenticação JWT para garantir a segurança das rotas protegidas.
 
+Dentro da pasta chamada Imagens você pode ver prints e vídeo da aplicação funcionando.
+
 ## 🚀 Tecnologias Utilizadas
 
 - Python
